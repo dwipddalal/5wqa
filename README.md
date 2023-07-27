@@ -1,5 +1,8 @@
 # 5wqa
 
+## Data 
+Data can be obtained form this link: 
+
 ## Paraphrasing Text with OpenAI GPT-3
 
 This Jupyter notebook is used for generating paraphrases of text using OpenAI's GPT-3 model, specifically the 'gpt-3.5-turbo' version of the model. 
